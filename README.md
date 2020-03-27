@@ -1,7 +1,7 @@
 # 개요
-- 프로젝트 명 : 
+- 프로젝트 명 : 빅데이터기반 향수추천 웹 서비스
 
-- 일정 : 20.
+- 일정 : 20.02.18 ~ 20.02.28
 
 - 팀 구성 : 오경석, 강명수, 강성철 , 김현성
 
@@ -11,8 +11,8 @@
 
 - 사용 기술 및 개발환경
 
-  O/S : Windows 10
-  Server : Apache Tomcat8.5
-  DB : Orarcle 11g
-  Programming Language : JAVA, HTML, JavaScript, Python 3.4
-  Tool : SQL Developer, Eclipse, Jupytor Notebook(anaconda3)
+  * O/S : Windows 10
+  * Server : Apache Tomcat8.5
+  * DB : Orarcle 11g
+  * Programming Language : JAVA, HTML, JavaScript, Python 3.4
+  * Tool : SQL Developer, Eclipse, Jupytor Notebook(anaconda3)
